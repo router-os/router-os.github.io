@@ -12,8 +12,8 @@ pre {
     word-wrap: break-word; /* IE 5.5+ */
 }
 code {
-  color: crimson;
-  background-color: #f1f1f1;
+  color: green;
+  background-color: #111;
   border:1px solid #ccc;
   padding: 10px;
   font-size: 14px;
